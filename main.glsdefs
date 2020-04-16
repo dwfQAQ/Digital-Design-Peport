@@ -1,0 +1,60 @@
+\ifglsentryexists{ersc}{}%
+{%
+\gls@defglossaryentry{ersc}%
+{%
+name={ERSC},%
+sort={ERSC},%
+type={acronym},%
+first={Engenharia de Redes e Sistemas de Computadores\glsspace (ERSC)},%
+firstplural={Engenharia de Redes e Sistemas de Computadoress\glsspace (ERSCs)},%
+text={ERSC},%
+plural={ERSCs},%
+description={Engenharia de Redes e Sistemas de Computadores},%
+descriptionplural={Engenharia de Redes e Sistemas de Computadores\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Engenharia de Redes e Sistemas de Computadores},%
+longplural={Engenharia de Redes e Sistemas de Computadoress},%
+short={ERSC},%
+shortplural={ERSCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{wn}{}%
+{%
+\gls@defglossaryentry{wn}%
+{%
+name={WN},%
+sort={WN},%
+type={acronym},%
+first={Wireless Network\glsspace (WN)},%
+firstplural={Wireless Networks\glsspace (WNs)},%
+text={WN},%
+plural={WNs},%
+description={Wireless Network},%
+descriptionplural={Wireless Network\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Wireless Network},%
+longplural={Wireless Networks},%
+short={WN},%
+shortplural={WNs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
